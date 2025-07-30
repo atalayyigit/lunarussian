@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Luna App</title>
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://apps.apple.com/app/id6740998772"; // <-- kendi App Store linkin
+    }, 300);
+  </script>
+</head>
+<body>
+  <p>Yönlendiriliyorsunuz…</p>
+</body>
+</html>
